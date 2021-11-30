@@ -1,0 +1,26 @@
+
+
+
+
+###### Social Media: Facebook ######
+graph.facebook.com
+
+
+###### Xiaomi ######
+#a.stat.xiaomi.com
+#abtest.mistat.intl.xiaomi.com
+#abtest.mistat.xiaomi.com
+#ad.mi.com
+#ad.xiaomi.com
+#ad1.xiaomi.com
+#adv.sec.miui.com
+
+eu.galleryapi.micloud.xiaomi.net
+
+
+
+###### Mavenir (5G) ######
+#rbm.mavenir.com
+#asbc.de1.rbm.mavenir.com
+#asbc.de2.rbm.mavenir.com
+#asbc2.de3.rbm.mavenir.com
