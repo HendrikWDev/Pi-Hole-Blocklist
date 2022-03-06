@@ -1,7 +1,33 @@
 ###### Ads ######
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+
+static.media.net
+media.net
+adservetx.media.net
+
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+fastclick.com
+fastclick.net
+media.fastclick.net/
+cdn.fastclick.net/
+
+adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
 
 
 ###### Analytics ######
@@ -114,6 +140,11 @@ securemetrics.apple.com
 supportmetrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
+
+
+###### Misc Trackers ######
+hotjar.com
+luckyorange.com
 
 
 ###### Mavenir (5G) ######
