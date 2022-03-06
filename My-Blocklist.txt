@@ -33,6 +33,8 @@ assoc-amazon.com
 ###### Analytics ######
 cdn.luckyorange.com
 w1.luckyorange.com
+stats.wp.com
+hotjar-analytics.com
 
 
 ###### Error Trackers ######
